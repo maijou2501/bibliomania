@@ -1,0 +1,13 @@
+PackageURL = http://example.co.jp/bibliomania01.jar
+AppSize = 34051
+AppMainTitle = main.gif
+AppName = bibliomania
+DrawArea = 480x854
+AppClass = bibliomania
+UseBrowser = launch
+UseNetwork = yes
+UseStorage = ext
+LastModified = Wed, 12 Jan 2011 19:15:47
+DeniedMultiApp = music
+AppType = FullApp
+AppIcon = mini01.gif,mini02.gif
